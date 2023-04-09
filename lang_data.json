@@ -1,0 +1,12 @@
+{
+    "ko": {
+        "inclip_show": "보기",
+        "inclip_empty": "비우기",
+        "inclip_halt": "종료"
+    },
+    "en": {
+        "inclip_show": "Show",
+        "inclip_empty": "Empty",
+        "inclip_halt": "Quit"
+    }
+}

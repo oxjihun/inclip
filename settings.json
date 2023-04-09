@@ -1,0 +1,7 @@
+{
+    "language": "ko",
+    "sleep_time": 0.1,
+    "remove_format": false,
+    "alert_at_every_copy": false,
+    "enabled_plugins": ["bad_text", "double_space"]
+}
